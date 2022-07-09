@@ -7,7 +7,7 @@ SETUP:
 code editor: VS Code
 
 1. Copy all HTMl code. Except the image node because you will add your own to give it a touch you prefer.
-<img src="your own image">
+<img src="" alt="your image here"/>
 
 2. Copy all CSS code.
 
